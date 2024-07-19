@@ -17,3 +17,9 @@ body {
     background-color: #594b43;
 }
 
+.footer {
+    position: absolute;
+    background-color:   #452800;
+    color: navajowhite;
+    bottom: 0;
+}
